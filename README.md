@@ -36,7 +36,7 @@ Make sure you have:
 Compile the project using:
 
 ```bash
-g\+\+ CarDodging.cpp -o game -IC:/SFML/include -LC:/SFML/lib -lsfml-graphics -lsfml-window -lsfml-system
+g++ CarDodging.cpp -o game -lsfml-graphics -lsfml-window -lsfml-system
 ```
 
 ### Run the Game
